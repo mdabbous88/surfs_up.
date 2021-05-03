@@ -10,11 +10,15 @@ The purpose of this analysis is to obtain more information about temperature tre
 
 * The minimum recorded temperature for the month of june is 69 degF, where as the minimum temperature recorded for the month of December is 56 degF. Therefore, the temperatures isn June are mostly high, while you have some cooler days in December.
 
-links()
+links(link for December analysis:https://github.com/mdabbous88/surfs_up./blob/main/Dec-temps_analysis.png
+      link for june analysis:https://github.com/mdabbous88/surfs_up./blob/main/june-temps_analysis.png)
 
 ## Summary
 
 The weather in Oahu does not experience cold temperature during winter and summer, the weather has too many days with good temperatures that are very suitable for surfing and having ice cream. Oahu is a very good place for openng a business for surfing and selling ice cream.
 Two analysis can be done for the bottom 25 percentile of the data in both June and December.
 
+
 The two queries that could be added to help in further analysis is to analyze the data in the first quartile. This will help to understand the spread of the data in the first quartile and how close from the minimum temperature it is. In the analysis done to both, the dec and june temperatures first quartiles, it shows that both data in the first quartile are far from the minimum temperature recorded and closer to the maximum. This gives us an idea that the cooler days are very few and it asserts that Oahu is a good place for surfing and selling ice cream.
+(link for june 25 percentile analysis:https://github.com/mdabbous88/surfs_up./blob/main/June%2025%20percentile%20analysis.png
+link for Dec 25 percenile analysis: https://github.com/mdabbous88/surfs_up./blob/main/Dec%2025%20percentile%20analysis.png)
